@@ -13,7 +13,7 @@ library;
 import 'dart:collection';
 
 // Import the canonical level data from the game.
-import '../lib/data/level_data.dart';
+import 'package:sokoban/data/level_data.dart';
 
 class Pos {
   final int r, c;

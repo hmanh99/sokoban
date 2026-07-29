@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import '../models/position.dart';
 
 /// On-screen directional pad for touch input.
-///
 /// Displays four directional buttons arranged in a cross pattern.
 /// Semi-transparent and non-intrusive while remaining easy to tap.
 class DPad extends StatelessWidget {
