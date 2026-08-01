@@ -6,8 +6,6 @@ Push all the boxes onto their target positions while avoiding deadlocks. Every m
 
 ## Demo
 
-> Add screenshots or a GIF here.
-
 | Gameplay                         | Level Complete                              | Screens                                 |
 |----------------------------------|---------------------------------------------|-----------------------------------------|
 | [Gameplay](screenshots/lv20.png) | [Level Complete](screenshots/lv20_win.png)  | [Screens](screenshots/dashboard.png)    |
