@@ -6,8 +6,6 @@ import 'screens/home_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-
-  // Initialize progress provider and load saved data before app starts.
   final progressProvider = ProgressProvider();
   await progressProvider.loadProgress();
 
